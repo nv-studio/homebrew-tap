@@ -1,4 +1,4 @@
-# Nv-studio Tap
+# nv-studio Tap
 
 ## How do I install these formulae?
 
@@ -10,7 +10,7 @@ Or, in a `brew bundle` `Brewfile`:
 
 ```ruby
 tap "nv-studio/tap"
-brew "openssh-pal"
+cask "openssh-pal"
 ```
 
 ## Documentation
