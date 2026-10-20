@@ -1,6 +1,6 @@
 cask "openssh-pal" do
-  version "0.1.0-beta.1"
-  sha256 "07a26996fe91add5eac7fae4034fe9cada758095fea80fdb8d58b106826b4ba0"
+  version "0.1.0-beta.2"
+  sha256 "aa29e18b99c9d888e3ea4ec1a2c057de31ddf18f05967c3d73b7e7a14844adc9"
 
   url "https://github.com/nv-studio/openssh-pal/releases/download/v#{version}/OpenSSH-Pal-#{version}.zip"
   name "OpenSSH Pal"
